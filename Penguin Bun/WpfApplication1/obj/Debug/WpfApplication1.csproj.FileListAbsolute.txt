@@ -1,0 +1,68 @@
+c:\users\ankapkantom\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+c:\users\ankapkantom\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+c:\users\ankapkantom\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+c:\users\ankapkantom\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+c:\users\ankapkantom\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+c:\users\ankapkantom\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+c:\users\ankapkantom\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+c:\users\ankapkantom\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+c:\users\ankapkantom\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+c:\users\ankapkantom\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+c:\users\ankapkantom\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+c:\users\ankapkantom\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+c:\users\ankapkantom\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+c:\users\ankapkantom\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\Game1.baml
+c:\users\ankapkantom\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\Game1.g.cs
+c:\users\ankapkantom\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\Board.baml
+c:\users\ankapkantom\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\Board.g.cs
+c:\users\ankapkantom\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\Name.baml
+c:\users\ankapkantom\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\Name.g.cs
+c:\users\ankapkantom\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\Game2.baml
+c:\users\ankapkantom\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\Game2.g.cs
+C:\Users\ankapkantom\Desktop\Penguin Bun\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\ankapkantom\Desktop\Penguin Bun\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\ankapkantom\Desktop\Penguin Bun\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\ankapkantom\Desktop\Penguin Bun\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\ankapkantom\Desktop\Penguin Bun\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\ankapkantom\Desktop\Penguin Bun\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ankapkantom\Desktop\Penguin Bun\WpfApplication1\obj\Debug\Board.baml
+C:\Users\ankapkantom\Desktop\Penguin Bun\WpfApplication1\obj\Debug\Game1.baml
+C:\Users\ankapkantom\Desktop\Penguin Bun\WpfApplication1\obj\Debug\Game2.baml
+C:\Users\ankapkantom\Desktop\Penguin Bun\WpfApplication1\obj\Debug\Game3.baml
+C:\Users\ankapkantom\Desktop\Penguin Bun\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\ankapkantom\Desktop\Penguin Bun\WpfApplication1\obj\Debug\Name.baml
+C:\Users\ankapkantom\Desktop\Penguin Bun\WpfApplication1\obj\Debug\Board.g.cs
+C:\Users\ankapkantom\Desktop\Penguin Bun\WpfApplication1\obj\Debug\Game1.g.cs
+C:\Users\ankapkantom\Desktop\Penguin Bun\WpfApplication1\obj\Debug\Game2.g.cs
+C:\Users\ankapkantom\Desktop\Penguin Bun\WpfApplication1\obj\Debug\Game3.g.cs
+C:\Users\ankapkantom\Desktop\Penguin Bun\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\ankapkantom\Desktop\Penguin Bun\WpfApplication1\obj\Debug\Name.g.cs
+C:\Users\ankapkantom\Desktop\Penguin Bun\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\ankapkantom\Desktop\Penguin Bun\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\ankapkantom\Desktop\Penguin Bun\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\ankapkantom\Desktop\Penguin Bun\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\ankapkantom\Desktop\Penguin Bun\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\orange\Desktop\Penguin Bun\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\orange\Desktop\Penguin Bun\WpfApplication1\obj\Debug\Board.baml
+C:\Users\orange\Desktop\Penguin Bun\WpfApplication1\obj\Debug\Game1.baml
+C:\Users\orange\Desktop\Penguin Bun\WpfApplication1\obj\Debug\Game2.baml
+C:\Users\orange\Desktop\Penguin Bun\WpfApplication1\obj\Debug\Game3.baml
+C:\Users\orange\Desktop\Penguin Bun\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\orange\Desktop\Penguin Bun\WpfApplication1\obj\Debug\Board.g.cs
+C:\Users\orange\Desktop\Penguin Bun\WpfApplication1\obj\Debug\Game1.g.cs
+C:\Users\orange\Desktop\Penguin Bun\WpfApplication1\obj\Debug\Game2.g.cs
+C:\Users\orange\Desktop\Penguin Bun\WpfApplication1\obj\Debug\Game3.g.cs
+C:\Users\orange\Desktop\Penguin Bun\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\orange\Desktop\Penguin Bun\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\orange\Desktop\Penguin Bun\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\orange\Desktop\Penguin Bun\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\orange\Desktop\Penguin Bun\WpfApplication1\obj\Debug\WpfApplication1.AboutBox1.resources
+C:\Users\orange\Desktop\Penguin Bun\WpfApplication1\bin\Debug\Penguin Bun.exe.config
+C:\Users\orange\Desktop\Penguin Bun\WpfApplication1\bin\Debug\Penguin Bun.exe
+C:\Users\orange\Desktop\Penguin Bun\WpfApplication1\bin\Debug\Penguin Bun.pdb
+C:\Users\orange\Desktop\Penguin Bun\WpfApplication1\obj\Debug\Penguin Bun_MarkupCompile.cache
+C:\Users\orange\Desktop\Penguin Bun\WpfApplication1\obj\Debug\Penguin Bun.g.resources
+C:\Users\orange\Desktop\Penguin Bun\WpfApplication1\obj\Debug\Penguin Bun.exe
+C:\Users\orange\Desktop\Penguin Bun\WpfApplication1\obj\Debug\Penguin Bun.pdb
+C:\Users\orange\Desktop\Penguin Bun\WpfApplication1\obj\Debug\Name1.baml
+C:\Users\orange\Desktop\Penguin Bun\WpfApplication1\obj\Debug\Name1.g.cs

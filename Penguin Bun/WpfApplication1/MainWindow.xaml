@@ -1,0 +1,47 @@
+﻿<Window x:Class="WpfApplication1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Penguin Bun !" Height="452.289" Width="525" ResizeMode="NoResize" Icon="父母3.ico">
+
+    <Window.Resources>
+        <ControlTemplate x:Key="MyButtonTemplate" TargetType='{x:Type Button}'>
+            <Border x:Name="myButton" Width=" 55" Height="55"
+        		Background="{TemplateBinding Background}">
+                <!--Width="{TemplateBinding Width}">-->
+                <ContentPresenter/>
+            </Border>
+            <ControlTemplate.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Width" Value="65" TargetName="myButton"/>
+                    <Setter Property="Height" Value="65" TargetName="myButton"/>
+
+                </Trigger>
+            </ControlTemplate.Triggers>
+        </ControlTemplate>
+    </Window.Resources>
+    <Grid>
+        <Image Margin="0,25,0,0" Source="11653475_565734783564771_1908208861_n.jpg" Stretch="Fill"/>
+        <Button x:Name="btn1" Template="{DynamicResource MyButtonTemplate}" Content="" HorizontalAlignment="Left" Margin="48,177,0,0" VerticalAlignment="Top" Width="67" Height="69" Click="Button_Click" BorderBrush="{x:Null}" Foreground="{x:Null}" IsHitTestVisible="True">
+            <Button.Background>
+                <ImageBrush ImageSource="images2/父母2.png"/>
+            </Button.Background>
+        </Button>
+        <Menu HorizontalAlignment="Left" Height="25" VerticalAlignment="Top" Width="517" Background="{DynamicResource {x:Static SystemColors.ActiveCaptionBrushKey}}" FontSize="16" FontFamily="Aharoni" FontWeight="Bold" Foreground="#FF434E54">
+            <MenuItem Header="File(F)" Height="25"  FontSize="16"  >
+                <MenuItem Header="Exit(_X)" Click="MenuItem_Click_1" Background="{DynamicResource {x:Static SystemColors.ActiveCaptionBrushKey}}"/>
+            </MenuItem>
+            <MenuItem Header="HighScore(S)" FontSize="16" Click="MenuItem_Click" />
+            <MenuItem Header="About(A)" FontSize="16" Click="About_Click" Foreground="#FF434E54" />
+        </Menu>
+        <Button x:Name="btn2" Template="{DynamicResource MyButtonTemplate}" Content="" HorizontalAlignment="Left" Margin="289,148,0,0" VerticalAlignment="Top" Width="148" Height="128" Click="Button_Click_1">
+            <Button.Background>
+                <ImageBrush ImageSource="images/stop.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btn3" Template="{DynamicResource MyButtonTemplate}" Content="" HorizontalAlignment="Left" Margin="155,264,0,0" VerticalAlignment="Top" Width="95" Height="74" Click="Button_Click_2" OpacityMask="#FFECD2D2">
+            <Button.Background>
+                <ImageBrush ImageSource="cartoon bus.png"/>
+            </Button.Background>
+        </Button>
+    </Grid>
+</Window>

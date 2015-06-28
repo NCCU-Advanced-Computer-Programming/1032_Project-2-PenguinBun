@@ -1,0 +1,47 @@
+﻿<Window x:Class="WpfApplication1.Game2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="gondola" Height="380" Width="420" ResizeMode="NoResize" MouseDown="Window_MouseDown" Closed="Window_Closed" Icon="父母3.ico">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="images2/背景1.jpg"/>
+        </Grid.Background>
+        <Label x:Name="wrongAnswer" HorizontalAlignment="Left" VerticalAlignment="Top"  Margin="170,62,0,0" Height="90" Width="90"/>
+        <Label x:Name="correctAnswer" HorizontalAlignment="Left" Margin="170,62,0,0" VerticalAlignment="Top" Height="90" Width="90"/>
+        <Label x:Name="lblLeft" Content="" HorizontalAlignment="Left" Margin="417,56,-197,0" VerticalAlignment="Top" Height="160" Width="194">
+            <Label.Background>
+                <ImageBrush/>
+            </Label.Background>
+        </Label>
+        <Label x:Name="lblRight" Content="" HorizontalAlignment="Left" Margin="417,56,-197,0" VerticalAlignment="Top" Height="160" Width="194">
+            <Label.Background>
+                <ImageBrush/>
+            </Label.Background>
+        </Label>
+        <Menu Height="24" Margin="0,0,0,0" VerticalAlignment="Top" FontFamily="Aharoni" FontSize="16" Background="{DynamicResource {x:Static SystemColors.ActiveCaptionBrushKey}}" Foreground="{DynamicResource {x:Static SystemColors.InactiveCaptionTextBrushKey}}">
+            <MenuItem Header="Exit" Click="MenuItemExit_Click"/>
+            <MenuItem Header="Start" Click="MenuItemStart_Click"/>
+            <MenuItem Header="Restart" Click="MenuItemReset_Click"/>
+        </Menu>
+        <Label x:Name="lblScore" Content="0" HorizontalAlignment="Left" Margin="183,24,0,0" VerticalAlignment="Top" Foreground="#FFF17004" Background="{x:Null}" FontWeight="Bold" FontFamily="AR ESSENCE" FontSize="48" Height="86" Width="82"/>
+        <Rectangle x:Name="check" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="28" Margin="107,253,0,0" Stroke="Black" VerticalAlignment="Top" Width="50" RenderTransformOrigin="-0.645,0.623"/>
+        <Label x:Name="person1" Content="" HorizontalAlignment="Left" Margin="100,213,0,0" VerticalAlignment="Top" Height="60" Width="60">
+            <Label.Background>
+                <ImageBrush ImageSource="images2/小孩1.png"/>
+            </Label.Background>
+        </Label>
+        <Label x:Name="person2" Content="" HorizontalAlignment="Left" Margin="140,253,0,0" VerticalAlignment="Top" Height="60" Width="60">
+            <Label.Background>
+                <ImageBrush ImageSource="images2/父母3.png"/>
+            </Label.Background>
+        </Label>
+        <Label x:Name="person3" Content="" HorizontalAlignment="Left" Margin="180,293,0,0" VerticalAlignment="Top" Height="60" Width="60">
+            <Label.Background>
+                <ImageBrush/>
+            </Label.Background>
+        </Label>
+        <Label Content="HighScore:" HorizontalAlignment="Left" Margin="285,0,0,0" VerticalAlignment="Top" FontWeight="Bold" FontFamily="Aharoni" FontSize="16" Foreground="#FF434E54"/>
+        <Label x:Name="highScoreLbl" Content="0" HorizontalAlignment="Left" Margin="377,-6,0,0" VerticalAlignment="Top" Foreground="#FF434E4D" FontWeight="Bold" FontSize="24" FontFamily="Aharoni"/>
+
+    </Grid>
+</Window>
